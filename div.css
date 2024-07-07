@@ -1,0 +1,46 @@
+.boxes
+{
+    border: 4px solid black;
+    height: 500;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+
+
+#box1
+{
+    
+    padding: 50px;
+    background-color: aliceblue;
+    height: 100px;
+    width: 100px;
+}
+#box2 
+{
+    
+    padding: 50px;
+    background-color: chartreuse;
+    height: 100px;
+    width: 100px;
+}
+#box3
+{
+ 
+    padding: 50px;
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 100px;
+}
+#box4
+{
+    
+    padding: 50px;
+    background-color: darkgrey;
+    height: 100px;
+    width: 100px;
+
+}
